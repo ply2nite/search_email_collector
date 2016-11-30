@@ -1,7 +1,7 @@
 # search_email_collector
 ![image](https://github.com/nu11secur1ty/search_email_collector/blob/master/Ruby.png)
 # Usage
-
+# ATTENTION: This module requires Metasploit: http://metasploit.com/download
 Login in  Metasploit.
 ```
 #~msfconsole
