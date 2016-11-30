@@ -1,6 +1,7 @@
 ##
 # This module requires Metasploit: http://metasploit.com/download
 # Current source: https://github.com/rapid7/metasploit-framework
+# Another source: https://github.com/nu11secur1ty/search_email_collector
 ##
 
 require 'msf/core'
